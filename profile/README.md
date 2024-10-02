@@ -27,7 +27,7 @@ We are always looking for collaborations and feedback. If you are interested in 
 
 - **Website**: [Visit Renuka Pharma](https://renuka-pharma-website.vercel.app/) <!-- Replace with actual website -->
 - **Contact Us**: 
-  - Email: [info@renukapharma.com](mailto:milind.alshi@gmail.com)
+  - Email: [milind.alshi@gmail.com](mailto:milind.alshi@gmail.co)
   - Phone: +91-9049426888
 
 
