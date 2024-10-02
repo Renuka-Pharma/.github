@@ -10,7 +10,7 @@ To empower healthcare providers with high-quality pharmaceutical products and pr
 
 ## What We Offer
 
-- **Pharmaceutical Manufacturing**: Producing a variety of high-quality medications.
+- **Pharmaceutical Marketing**: Producing and Marketing a variety of high-quality medications.
 - **Software Solutions**: Developing tools for:
   - **Clinic Management**
   - **Analytics and Reporting**
