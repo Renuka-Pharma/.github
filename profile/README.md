@@ -1,4 +1,4 @@
-# Welcome to Renuka Pharma (https://renuka-pharma-website.vercel.app/)
+# Welcome to Renuka Pharma
 
 ## Who We Are
 
