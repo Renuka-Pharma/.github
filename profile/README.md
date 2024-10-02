@@ -1,4 +1,4 @@
-# Welcome to Renuka Pharma
+# Welcome to Renuka Pharma (https://renuka-pharma-website.vercel.app/)
 
 ## Who We Are
 
@@ -25,17 +25,11 @@ To empower healthcare providers with high-quality pharmaceutical products and pr
 
 We are always looking for collaborations and feedback. If you are interested in working with us or have any inquiries, please reach out!
 
-- **Website**: [Visit Renuka Pharma](https://www.renukapharma.com) <!-- Replace with actual website -->
+- **Website**: [Visit Renuka Pharma](https://renuka-pharma-website.vercel.app/) <!-- Replace with actual website -->
 - **Contact Us**: 
-  - Email: [info@renukapharma.com](mailto:info@renukapharma.com)
+  - Email: [info@renukapharma.com](mailto:milind.alshi@gmail.com)
   - Phone: [123-456-7890] <!-- Replace with actual phone number -->
 
-## Stay Connected
-
-Follow us on our social media for updates:
-
-- [LinkedIn](https://www.linkedin.com/company/renukapharma) <!-- Replace with actual link -->
-- [Twitter](https://twitter.com/renukapharma) <!-- Replace with actual link -->
 
 ---
 
