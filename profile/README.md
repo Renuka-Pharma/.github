@@ -1,7 +1,5 @@
 # Welcome to Renuka Pharma
 
-![Renuka Pharma Logo](https://via.placeholder.com/150) <!-- Replace with actual logo URL -->
-
 ## Who We Are
 
 Renuka Pharma is a dedicated firm specializing in the manufacturing of pharmaceutical products and the development of innovative software solutions tailored to the needs of healthcare professionals. With over 10 years of experience in the industry, we strive to enhance the efficiency of medical practices through technology.
