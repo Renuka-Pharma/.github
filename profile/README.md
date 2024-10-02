@@ -2,7 +2,7 @@
 
 ## Who We Are
 
-Renuka Pharma is a dedicated firm specializing in the manufacturing of pharmaceutical products and the development of innovative software solutions tailored to the needs of healthcare professionals. With over 10 years of experience in the industry, we strive to enhance the efficiency of medical practices through technology.
+Renuka Pharma is a dedicated firm specializing in the marketing of pharmaceutical products and the development of innovative software solutions tailored to the needs of healthcare professionals. With over 10 years of experience in the industry, we strive to enhance the efficiency of medical practices through technology.
 
 ## Our Mission
 
