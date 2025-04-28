@@ -37,7 +37,6 @@ For more information about our products and services, please visit our website: 
 If you have any questions or would like to learn more about our offerings, please feel free to reach out.
 
 - **Email**: milind.alshi@gmail.com
-- **Phone**: +91-9049426888
 
 ---
 
